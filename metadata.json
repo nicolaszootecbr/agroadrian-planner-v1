@@ -1,0 +1,5 @@
+{
+  "name": "Agro Silagem Planner",
+  "description": "A web application for forage planning and silage conservation, designed for agribusiness professionals. It provides complex zootechnical calculations in an intuitive, field-ready interface.",
+  "requestFramePermissions": []
+}
