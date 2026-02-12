@@ -2,6 +2,26 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
+AgroAdrian Planner 🐄
+Planejador Forrageiro de Precisão
+
+Aplicativo desenvolvido por Nicolas Adrian, estudante de Zootecnia da UFBA e bolsista PIBIC.
+
+🚀 Funcionalidades
+Planejamento forrageiro integrado (Pasto, Silagem e Concentrado).
+
+Dimensionamento de silos e piquetes baseado em dados da Embrapa.
+
+Módulo de custos reais para gestão financeira rural.
+
+🛠️ Tecnologias
+React + TypeScript
+
+Google AI Studio
+
+Vercel Deployment
+
+
 # Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
